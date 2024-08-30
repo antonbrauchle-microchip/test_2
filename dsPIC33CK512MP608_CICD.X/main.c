@@ -27,6 +27,8 @@
 int main(void)
 {
     SYSTEM_Initialize();
+    
+    // Smol change    
 
     while(1)
     {
